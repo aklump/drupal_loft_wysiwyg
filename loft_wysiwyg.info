@@ -2,7 +2,7 @@ name = "Loft WYSIWYG + Images"
 description = "Provides turn-key WYSYWIG to Drupal with inline image support."
 package = "In the Loft Studios"
 php = "5.2.4"
-version = "7.x-2.0-rc1"
+version = "7.x-2.0-rc2"
 core = "7.x"
 
 dependencies[] = "loft_wysiwyg_images_assets"

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Loft WYSIWYG + Images Assets feature.
+ */
+
+include_once 'loft_wysiwyg_images_assets.features.inc';
